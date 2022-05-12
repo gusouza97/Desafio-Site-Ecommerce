@@ -26,7 +26,7 @@
 
 
 
-##### CRIAÇÃO E CONFIGURAÇÃO DAS PÁGINAS
+###### CRIAÇÃO E CONFIGURAÇÃO DAS PÁGINAS
 - [ ] Criação das páginas
 	- [ ] Página de Home
 	- [ ] Página de Listar Produtos
