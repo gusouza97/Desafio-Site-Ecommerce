@@ -3,8 +3,8 @@
 ### Lista de Tarefas
 
 ###### GITHUB
-- [ ] Criar o repositório no Github
-- [ ] Configuração do arquivo Read.me temporário
+- [x] Criar o repositório no Github
+- [x] Configuração do arquivo Read.me temporário
 
 ###### CONFIGURAÇÃO MODULOS E OUTROS
 - [ ] Realizar instalação e configuração do WebPack
