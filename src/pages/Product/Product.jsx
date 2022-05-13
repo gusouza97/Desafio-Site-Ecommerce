@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Product() {
   return (
     <h1>Page Product</h1>

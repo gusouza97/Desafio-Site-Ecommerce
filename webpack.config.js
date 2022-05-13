@@ -16,7 +16,9 @@ module.exports = {
 
     path: path.resolve(__dirname, "public"), // string (default) // the target directory for all output files // must be an absolute path (use the Node.js path module)
 
-    filename: "[contenthash].bundle.js", // string (default) // the filename template for entry chunks
+    filename: "[contenthash].bundle.js", 
+
+    publicPath: '/'
   },
 
   optimization: {
@@ -30,6 +32,7 @@ module.exports = {
   },
 
   devServer: {
+    historyApiFallback: true,
     static: {
       directory: path.resolve(__dirname, "public"),
     },
@@ -84,7 +87,7 @@ module.exports = {
     new miniCssWebpackPlugin({
       filename: "css/styles[contenthash].css",
     }),
-    new CleanWebpackPlugin(),
+    //new CleanWebpackPlugin(),
     new purgeCss({
       paths: glob.sync("./**/*.html", { nodir: true }),
     }),
