@@ -16,7 +16,7 @@
 
 - [x] Realizar instalação e configuração do React
 
-- [ ] Realizar instalação e configuração do Prettier + EsLint com Style Guide Airbnb
+- [x] Realizar instalação e configuração do EsLint com Style Guide Airbnb
 
 - [ ] Instalação e configuração do React Router Dom
 
