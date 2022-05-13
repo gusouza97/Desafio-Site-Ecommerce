@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Xiaomi Mi 11T Pro Dual SIM 256 GB meteorite gray 12 GB RAM",
+            "price": 4654,
+            "description": "Experiência visual incrível",
+            "imageUrl": "/assets/img/img01.png"
+        },
+        {
+            "id": 2,
+            "title": "Celular Xiaomi Redmi Note 11 Pro 5g 6/128gb 108mp Camera+nf",
+            "price": 2499.99,
+            "description": "Memória interna: 128 GB",
+            "imageUrl": "/assets/img/img02.png"
+        },
+        {
+            "id": 3,
+            "title": "Microsoft Xbox Series S 512GB Standard cor branco",
+            "price": 2299,
+            "description": "Resolução de 2560px x 1440px.",
+            "imageUrl": "/assets/img/img03.png"
+        },
+        {
+            "id": 4,
+            "title": "Sony PlayStation 5 825GB Standard cor branco e preto",
+            "price": 4666.90,
+            "description": "Horas de diversão garantidas.",
+            "imageUrl": "/assets/img/img04.png"
+        },
+        {
+            "id": 5,
+            "title": "Smart TV Samsung UN50AU7700GXZD LED 4K 50'' 100V/240V",
+            "price": 2799,
+            "description": "Modo de som: Dolby Digital Plus.",
+            "imageUrl": "/assets/img/img05.png"
+        },
+        {
+            "id": 6,
+            "title": "Fone de ouvido on-ear sem fio JBL Tune 510BT azul",
+            "price": 209,
+            "description": "Confortável e prático.",
+            "imageUrl": "/assets/img/img06.png"
+        },
+        {
+            "id": 7,
+            "title": "Elden Ring Xbox One/series X|s Código 25 Dígitos",
+            "price": 339,
+            "description": "Com este jogo Elden Ring, você desfrutará de horas de diversão e novos desafios que lhe permitirão melhorar como jogador.",
+            "imageUrl": "/assets/img/img07.png"
+        },
+        {
+            "id": 8,
+            "title": "Notebook Dell Alienware X17 R1 I7 11th 16gb 512ssd Rtx3060",
+            "price": 18770,
+            "description": "NOTEBOOK GAMER ALIENWARE X17 R1",
+            "imageUrl": "/assets/img/img08.png"
+        },
+        {
+            "id": 9,
+            "title": "Mochila Dell 15 Polegadas Essential Backpack Es1520p",
+            "price": 250,
+            "description": "Proteja seu notebook com a Mochila Essential.",
+            "imageUrl": "/assets/img/img09.png"
+        },
+        {
+            "id": 10,
+            "title": "Kit Teclado E Mouse Dell Sem Fio Km5221w Wireless",
+            "price": 299,
+            "description": "Conteúdo da Embalagem Teclado e mouse sem fio Dell Pro",
+            "imageUrl": "/assets/img/img10.png"
+        }
+    ]
+}

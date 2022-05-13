@@ -18,30 +18,26 @@
 
 - [x] Realizar instalação e configuração do EsLint com Style Guide Airbnb
 
-- [ ] Instalação e configuração do React Router Dom
+- [x] Instalação e configuração do React Router Dom
 
-- [ ] Instalação e configuração do Style Components
+- [x] Instalação e configuração do Style Components
 
   
   
 
 ###### DESENVOLVIMENTO DO MOCK
 
-- [ ] Desenvolver o mock do projeto
+- [x] Desenvolver o mock do projeto
 
-    - [ ] IdProduct
+    - [x] id
 
-    - [ ] NameProduct
+    - [x] title
 
-    - [ ] PriceProduct
+    - [x] price
 
-    - [ ] DescriptionProduct
+    - [x] description
 
-    - [ ] CategoryProduct
-
-    - [ ] ColorProduct
-
-    - [ ] ImageProduct
+    - [x] imageUrl
 
   
   

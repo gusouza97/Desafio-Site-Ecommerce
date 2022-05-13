@@ -68,6 +68,7 @@
     "isexe": "^2.0.0",
     "isobject": "^3.0.1",
     "json-parse-even-better-errors": "^2.3.1",
+    "json-server": "^0.17.0",
     "kind-of": "^6.0.3",
     "loader-runner": "^4.3.0",
     "locate-path": "^5.0.0",
@@ -96,6 +97,7 @@
     "postcss-value-parser": "^4.2.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-router-dom": "^6.3.0",
     "rechoir": "^0.7.1",
     "resolve": "^1.22.0",
     "resolve-cwd": "^3.0.0",
@@ -108,6 +110,7 @@
     "signal-exit": "^3.0.7",
     "source-map-js": "^1.0.2",
     "strip-final-newline": "^2.0.0",
+    "styled-components": "^5.3.5",
     "supports-preserve-symlinks-flag": "^1.0.0",
     "tapable": "^2.2.1",
     "terser-webpack-plugin": "^5.3.1",
@@ -123,7 +126,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
     "dev": "webpack --mode development",
-    "start": "webpack-dev-server --open --hot --mode development"
+    "start": "webpack-dev-server --open --hot --mode development",
+    "api": "json-server --watch api/db.json --port 3004"
   },
   "repository": {
     "type": "git",
