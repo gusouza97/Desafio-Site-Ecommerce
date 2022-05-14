@@ -45,15 +45,15 @@
 
 ###### CRIAÇÃO E CONFIGURAÇÃO DAS PÁGINAS
 
-- [ ] Criação das páginas
+- [x] Criação das páginas
 
-    - [ ] Página de Home
+    - [x] Página de Home
 
-    - [ ] Página de Listar Produtos
+    - [x] Página de Listar Produtos
 
-    - [ ] Página do Produto (Galeria de Imagens)
+    - [x] Página do Produto (Galeria de Imagens)
 
-    - [ ] Página de Carrinho
+    - [x] Página de Carrinho
 
   
   
@@ -61,7 +61,7 @@
 
 ###### CONFIGURAÇÃO DAS PÁGINAS COM O REACT-ROUTER-DOM
 
-- [ ] Configurar páginas com o React Router DOM
+- [x] Configurar páginas com o React Router DOM
 
   
   
@@ -69,7 +69,7 @@
 
 ###### CRIAÇÃO DO CONSUMO DO MOCK
 
-- [ ] Desenvolver fetch de consumo do mock
+- [x] Desenvolver fetch de consumo do mock
 
   
   

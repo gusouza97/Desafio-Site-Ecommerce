@@ -127,7 +127,7 @@
     "build": "webpack --mode production",
     "dev": "webpack --mode development",
     "start": "webpack-dev-server --open --hot --mode development",
-    "api": "json-server --watch api/db.json --port 3004"
+    "api": "json-server --watch mock/db.json --port 3004"
   },
   "repository": {
     "type": "git",

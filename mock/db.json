@@ -33,14 +33,14 @@
             "title": "Smart TV Samsung UN50AU7700GXZD LED 4K 50'' 100V/240V",
             "price": 2799,
             "description": "Modo de som: Dolby Digital Plus.",
-            "imageUrl": "/assets/img/img05.png"
+            "imageUrl": ".assets/img/img05.png"
         },
         {
             "id": 6,
             "title": "Fone de ouvido on-ear sem fio JBL Tune 510BT azul",
             "price": 209,
             "description": "Confortável e prático.",
-            "imageUrl": "/assets/img/img06.png"
+            "imageUrl": "assets/img/img06.png"
         },
         {
             "id": 7,
